@@ -1,2 +1,2 @@
-# ksin8660.github.io
+# Fetch Rewards Code Exercise
 Kosal Sin's Personal Github Site
